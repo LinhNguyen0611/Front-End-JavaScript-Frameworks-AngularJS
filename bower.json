@@ -1,0 +1,22 @@
+{
+  "name": "Front-End-JavaScript-Frameworks-AngularJS",
+  "homepage": "https://github.com/LinhNguyen0611/Front-End-JavaScript-Frameworks-AngularJS",
+  "authors": [
+    "LinhNguyen0611 <annienguyen.it@gmail.com>"
+  ],
+  "description": "Demo",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "angular": "^1.6.4"
+  }
+}
